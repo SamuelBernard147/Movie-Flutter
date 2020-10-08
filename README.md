@@ -2,7 +2,7 @@
 
 <img src="https://media2.giphy.com/media/6TJ8QVG6IoUaw6RdZl/giphy.gif" alt="movie-flutter"/>
 
-## Features
+�## Features
 - Popular Movie List
 - UpComing Movie List
 - Detail Movie
@@ -20,7 +20,7 @@
 
 ## Screenshots
 <pre>
-<img src="https://github.com/fionicholas/Movie-BLOC-Retrofit/blob/master/screenshot/movie.png" alt="ss-movie-home" width="330" height="500" /><img src="https://github.com/fionicholas/Movie-BLOC-Retrofit/blob/master/screenshot/movie_popular_all.png" alt="ss-movie-list" width="330" height="500" /><img src="https://github.com/fionicholas/Movie-BLOC-Retrofit/blob/master/screenshot/new_detail_movie.png" alt="ss-new-movie-detail" width="330" height="500" /><img src="https://github.com/fionicholas/Movie-BLOC-Retrofit/blob/master/screenshot/movie_detail.png" alt="ss-movie-detail" width="330" height="500" />
+<img src="https://github.com/samuelbernard147/Movie-BLOC-Retrofit/blob/master/screenshot/movie.png" alt="ss-movie-home" width="330" height="500" /><img src="https://github.com/fionicholas/Movie-BLOC-Retrofit/blob/master/screenshot/movie_popular_all.png" alt="ss-movie-list" width="330" height="500" /><img src="https://github.com/fionicholas/Movie-BLOC-Retrofit/blob/master/screenshot/new_detail_movie.png" alt="ss-new-movie-detail" width="330" height="500" /><img src="https://github.com/samuelbernard147/Movie-BLOC-Retrofit/blob/master/screenshot/movie_detail.png" alt="ss-movie-detail" width="330" height="500" />
 </pre>
 
 ## Todo
@@ -39,8 +39,8 @@ flutter pub run build_runner build
 
 ## Don't Forget to
 
-- Star the Repository [⭐](https://github.com/fionicholas/Movie-Flutter)
-- Follow [My Github Account](https://github.com/fionicholas/)
+- Star the Repository [⭐](https://github.com/samuelbernard147/Movie-Flutter)
+- Follow [My Github Account](https://github.com/samuelbernard147)
 
 ## License
 ```
